@@ -7,3 +7,9 @@ import HelloWorld from "@/components/HelloWorld.vue";
     <HelloWorld msg="You did it!" />
   </div>
 </template>
+
+<style>
+h1 {
+  color: deeppink;
+}
+</style>
